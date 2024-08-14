@@ -1,0 +1,17 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label, input, button {
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+}
