@@ -15,3 +15,7 @@ label, input, button {
     display: block;
     width: 100%;
 }
+
+#result {
+    font-size: 2em;
+}
